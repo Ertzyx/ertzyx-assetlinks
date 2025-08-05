@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ertzyx.yove",
+      "sha256_cert_fingerprints": [
+        "98:69:D8:DC:1A:18:4F:1A:AC:B8:9D:9B:71:82:C6:DF:61:BA:C4:2D:37:6C:3E:6F:5D:48:C1:A8:BE:D4"
+      ]
+    }
+  }
+]
