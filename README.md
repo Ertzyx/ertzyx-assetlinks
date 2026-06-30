@@ -1,23 +1,10 @@
-# Ertzyx's Portfolio
+# Ertzyx Asset Links
 
-## 🚀 About Me
-Hi! I'm a **Startup Founder** and passionate **App Developer**. I love building innovative solutions using both **ReactNative** and **Flutter**, and I'm always working on exciting, random projects. My latest venture is [www.ertzyx.com](https://www.ertzyx.com).
+This repository previously supported public web verification files for Ertzyx.
 
-## 🛠️ Skills
-- ReactNative
-- Flutter
-- Mobile App Development (iOS & Android)
-- Startup & Product Development
-- UI/UX Design
+Ertzyx is a dual-ledger platform for social storytelling, personal journaling, achievement preservation, digital legacy, and credential verification.
 
-## Featured Projects
-- **www.ertzyx.com** – My current startup project.
-- **Random Projects** – Explore my repositories for unique app ideas and experiments.
+Public website: https://ertzyx.com  
+Application platform: https://ledger.ertzyx.com  
 
-## 📬 Contact
-- Website: [www.ertzyx.com](https://www.ertzyx.com)
-- GitHub: [@Ertzyx](https://github.com/Ertzyx)
-
----
-
-Feel free to explore my projects and reach out if you’d like to collaborate!
+Ertzyx is operated by Yove Technologies Ltd.
